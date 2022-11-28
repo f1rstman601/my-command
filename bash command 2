@@ -1,0 +1,11 @@
+shell script commands
+ 
+ 1: memory commands
+ $top command is used to shown all process of cpu
+ $free command is used to memory ditals
+ $df -H command is used to specific from dital
+ 
+2:AWK command:- Awk is a scripting language used for manipulating data and generating reports.
+
+ 3:cut command
+

@@ -1,0 +1,84 @@
+scripting  with    dital
+
+   statments
+1: if  "syntax"
+
+        if [condition]
+        then
+           statement  
+         if
+            
+2: if-else "syntax"
+          
+          if [condition]
+          then
+             statement
+           else
+             statement
+             fi
+               
+3: if-elif  "syntax"
+       
+          if [condition]
+          then
+             statement
+           elif [condition]
+            then
+              statement  
+           else
+             statement
+             fi
+
+   loops:- is used to automation
+1: while loop "syntax"
+             
+              while [condition]
+                do 
+                  statment "if statment is true then again run the condition"
+                  
+                  done
+                  
+2: for loop  "syntax"
+
+                
+                
+3: for while loop 
+
+   *function
+   :- function is used to add group and users
+     
+     
+     *backups
+     :- is used to backup the files
+     # santax
+     
+     *src:-sourc directry
+     src_dir=sourc location name
+     
+     *tgr:-terget directry
+     tgt_dir=dir locatin name where file can store/backup
+     
+     #and add time to time backup.
+     
+                       *date is bild in function
+     curr-timestamp=$(date"+%y-%m-%d-&H-%M-%s")
+     
+     backup-file=$tgt-dir/$curr-timestamp.tgz    *tgz is used to compress
+     
+     echo "taking backup on $curr_timestamp"
+     
+     *tar czf:-tar is compress fil and czf is a explan function of tar
+     tar czf $backup_file --absolute-names $src_dir
+     
+     echo "backup comoelet"
+     
+     
+*if any file is uncompress/unzip or backup from backups
+    tar xf "file name"     
+     
+     
+     
+     
+     
+     
+            

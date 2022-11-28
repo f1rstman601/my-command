@@ -1,0 +1,77 @@
+command
+1.$ whoami : i question to git
+
+2.$ touch : "file name" : it used to make a file"
+
+3.$ ls : this command show the list
+
+4.$ pwd : present working directory or folder
+
+5.$ mkdir : make new empty folder or directroy
+
+6.$ cd "floder name" : open directory or folder
+
+7.$ mv ../source./destiney : copy and past
+
+8.$ clear : its clear all command in git
+
+9.$ nano : write a file
+
+10.$ cat : open a file
+
+11.$ echo : by used this command write sumthing in your termenal
+
+12.$ ln : link with files
+
+13.$ git config --globle user.name"here name " 
+
+14.$ git config --globle user.email"here email "
+
+15.$ man "any command" : give us detal of command
+
+16.$ git init : covert directroy in to repository  
+
+ 17.$ git status: run git status
+ 
+ 18.$ git add : file convert to working area to staging area
+ 
+19 .$ git commit : file move staging area to local repository
+
+20.$ git diff : it show changes b/w working area and staging
+
+21.$ git diff --staged : it show changes b/w staging aera and local aera
+
+22.$ vi "file name" : used to open file in terminal
+
+23.$ git log : list details the commit associated with a file
+
+24.$ git rm : delete file
+
+25.$ git --cached "file name" :delete from staging aera
+
+26.$ git mv  <file name><new file name> it for change file name
+
+27.$ git clone :git clone is primarily used to point to an existing repo and make a clone      or      copy of that repo at in a new directory, at another
+
+28.$ git push : used to uplod a project
+
+29.$ git remot add origin http:/  :ti used to file transfer local repo to remot repo
+
+30.$ git "command" -v : verify that command
+
+31.$ git cd ~ : used to back to homme
+
+32.$ git  cp  -r <file name> <folder name> this is used to copy file
+
+33.$ git ls -a : show hidden file in list
+
+34.$ sudo adduser "any name" : its make new home <password and user name>
+
+35.$ cat .bash_history : this used for find commands
+  history
+  
+36.$ sudo apt remove "app name" : remove the software {apt and apt-get are package maneger}
+  
+  
+  
+ 
