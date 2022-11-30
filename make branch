@@ -1,0 +1,9 @@
+to make branch in github from local terminal
+
+
+first check $ git branch
+            $ git checkout -b "brach name"
+            $ git push
+            
+            
+           if push is deny then used  a token key  
