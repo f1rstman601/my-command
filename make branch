@@ -6,4 +6,5 @@ first check $ git branch
             $ git push
             
             
-           if push is deny then used  a token key  
+    * if push is deny then used  a token key
+             
